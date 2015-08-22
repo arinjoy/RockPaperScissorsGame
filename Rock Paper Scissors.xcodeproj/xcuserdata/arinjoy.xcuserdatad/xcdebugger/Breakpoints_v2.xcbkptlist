@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rock Paper Scissors WatchKit Extension/InterfaceController.swift"
+            timestampString = "461936331.948697"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "InterfaceController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rock Paper Scissors WatchKit Extension/InterfaceController.swift"
+            timestampString = "461935952.953951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "InterfaceController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rock_Paper_Scissors_WatchKit_Extension.InterfaceController.scissorsBtn.setter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.WKInterfaceButton&gt;"
+                  moduleName = "Rock Paper Scissors WatchKit Extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arinjoy/Projects/iOS/Rock%20Paper%20Scissors/Rock%20Paper%20Scissors%20WatchKit%20Extension/InterfaceController.swift"
+                  timestampString = "461936003.955697"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rock_Paper_Scissors_WatchKit_Extension.InterfaceController.scissorsBtn.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.WKInterfaceButton&gt;"
+                  moduleName = "Rock Paper Scissors WatchKit Extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arinjoy/Projects/iOS/Rock%20Paper%20Scissors/Rock%20Paper%20Scissors%20WatchKit%20Extension/InterfaceController.swift"
+                  timestampString = "461936003.955877"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rock_Paper_Scissors_WatchKit_Extension.InterfaceController.init (Rock_Paper_Scissors_WatchKit_Extension.InterfaceController.Type)() -&gt; Rock_Paper_Scissors_WatchKit_Extension.InterfaceController"
+                  moduleName = "Rock Paper Scissors WatchKit Extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arinjoy/Projects/iOS/Rock%20Paper%20Scissors/Rock%20Paper%20Scissors%20WatchKit%20Extension/InterfaceController.swift"
+                  timestampString = "461936003.955968"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "127">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rock Paper Scissors WatchKit Extension/InterfaceController.swift"
+            timestampString = "461936170.273863"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "InterfaceController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
